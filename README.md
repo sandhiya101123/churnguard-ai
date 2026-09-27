@@ -6,8 +6,7 @@ Customer Churn Prediction & Retention Intelligence System — MainCrafts Technol
 ```
 CHURNGUARD_AI/
 ├── README.md
-├── MainCrafts_SkillSprint_ChurnGuardAI_Sandy.ipynb   # Executed source notebook (code + outputs)
-├── CHURNGUARD_AI_Project_Report.pdf                   # Project report
+├── MainCrafts_ChurnGuardAI.ipynb   # Executed source notebook (code + outputs)
 ├── Telco-Customer-Churn.csv                           # Dataset (IBM Telco Customer Churn)
 ├── churnguard_logistic_model.joblib                   # Saved trained model
 └── images/                                             # Evidence screenshots
