@@ -1,6 +1,6 @@
 # CHURNGUARD AI
 
-Customer Churn Prediction & Retention Intelligence System — MainCrafts Technology 2-Day Skill Certification.
+Customer Churn Prediction & Retention Intelligence System — MainCrafts Technology.
 
 ## Contents
 ```
@@ -9,7 +9,8 @@ CHURNGUARD_AI/
 ├── MainCrafts_ChurnGuardAI.ipynb   # Executed source notebook (code + outputs)
 ├── Telco-Customer-Churn.csv                           # Dataset (IBM Telco Customer Churn)
 ├── churnguard_logistic_model.joblib                   # Saved trained model
-└── images/                                             # Evidence screenshots
+
+                                    # Evidence screenshots
     ├── evidence_01_churn_distribution.png
     ├── evidence_02_churn_vs_contract.png
     ├── evidence_03_churn_vs_tenure.png
