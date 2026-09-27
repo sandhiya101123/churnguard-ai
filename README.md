@@ -18,11 +18,6 @@ CHURNGUARD_AI/
     └── evidence_05_confusion_matrix.png
 ```
 
-## How to run
-1. Open `MainCrafts_SkillSprint_ChurnGuardAI_Sandy.ipynb` in Google Colab or Jupyter.
-2. Upload `Telco-Customer-Churn.csv` to the same working directory (or Colab session).
-3. Run all cells top to bottom.
-
 ## Summary
 - **Dataset:** IBM Telco Customer Churn — 7,043 records, 21 features.
 - **Models tested:** Logistic Regression, Random Forest (default), Random Forest (balanced/tuned).
